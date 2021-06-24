@@ -61,3 +61,11 @@ footer.page-footer {
   background-position: center;
   background-size: cover;
 }
+
+/*registrer.html*/
+.registro-titulo {
+  margin-top: 80px;
+}
+.registro-header {
+  height: 400px;
+}
